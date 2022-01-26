@@ -52,4 +52,3 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "rspec", "~> 3.10"
 
-gem "pg"
