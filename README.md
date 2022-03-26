@@ -6,10 +6,21 @@
 
 Welcome to Acebook!
 
-The app is essentially a Facebook clone, made using Ruby on Rails and SQLite over a period of 2 weeks during the Makers Academy course.
+The app is essentially a Facebook clone, made using Ruby on Rails and SQLite over a period of 2 weeks during the Makers Academy course. The app was deployed using Heroku.
 
 This site allows users to sign up, login, log out, create posts with text and photos. Each post can be "liked" or "unliked" (as can the comments).
 
+Try it for yourself, here:
+
+https://evening-shelf-16965.herokuapp.com/signup
+
+Otherwise, run the code locally (instructions below, see "Quickstart").
+
+The site allows you to sign up, like so:
+
+![Screenshot 2022-03-26 at 07 50 28](https://user-images.githubusercontent.com/90918377/160230243-b3c727eb-1d38-48c9-82e8-a299ad8c73c1.png)
+
+Before 
 ## Quickstart
 
 First, clone this repository. Then:
