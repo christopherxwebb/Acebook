@@ -32,7 +32,7 @@ Posts can be edited and deleted. There is an account summary with total likes an
 
 With more time we would have implemented a friends list, allowing friends to connect (and disconnect).
 
-The project was made by TEAM BETAVERSE, which comprised of Christopher Webb, Mayo Theodore, Chris Clement, Tomas Garcia and Ibrahim Chowdhury.
+The project was made by TEAM BETAVERSE, which comprised of Christopher Webb, Mayo Theodore, Chris Clement, Tomas Garcia, Ezekiel Kassim and Ibrahim Chowdhury.
 
 ## Quickstart
 
