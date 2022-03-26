@@ -1,34 +1,14 @@
 # AceBook
 
-# Default users (remember to use .save after each entry)
+<img width="1625" alt="Screenshot 2022-03-26 at 07 45 32" src="https://user-images.githubusercontent.com/90918377/160230069-ee1e14af-e4f9-4d6e-bf4b-13278beef153.png">
 
-user1 = User.new(name: "Tomas Garcia", email:"tom@gmail
-.com", password: "1234")
-user1.save
+## About the Project
 
-user2 = User.new(name: "Ezekiel Kassim", email:"ez@g
-mail.com", password: "1234")
-user2.save
+Welcome to Acebook!
 
-post1 = Post.new(users_id: 1, content: "Just watched spiderman")
-post1.save
-post2 = Post.new(users_id: 2, content: "Time to code")
-post2.save
+The app is essentially a Facebook clone, made using Ruby on Rails and SQLite over a period of 2 weeks during the Makers Academy course.
 
-comment1 = Comment.new(users_id: 2, posts_id: 1, content: "Batman was better")
-comment1.save
-comment2 = Comment.new(users_id: 1, posts_id: 1, content: "True, I agree")
-comment2.save
-comment3 = Comment.new(users_id: 2, posts_id: 1, content: "Thoughts on superman?")
-comment3.save 
-comment4 = Comment.new(users_id: 1, posts_id: 2, content: "What will you make?")
-comment4.save
-comment5 = Comment.new(users_id: 2, posts_id: 2, content: "The betterverse")
-comment5.save
-comment6 = Comment.new(users_id: 1, posts_id: 1, content: "Great film!")
-comment6.save
-comment7 = Comment.new(users_id: 1, posts_id: 2, content: "Sounds like fun!")
-comment7.save
+This site allows users to sign up, login, log out, create posts with text and photos. Each post can be "liked" or "unliked" (as can the comments).
 
 ## Quickstart
 
