@@ -30,7 +30,7 @@ Friends can interact with each other, commenting and liking on posts. (Yes, the 
 
 Posts can be edited and deleted. There is an account summary with total likes and total posts.
 
-With more time we would have implemented a friends list, allowing friends to connect (and disconnect).
+With more time we would have implemented a friends list, allowing friends to connect (and disconnect)--but we did manage to implement a friends search bar, which allows users to search for other users (not "friends" as such!). You can also search for posts and comments, too.
 
 The project was made by TEAM BETAVERSE, which comprised of Christopher Webb, Mayo Theodore, Chris Clement, Tomas Garcia, Ezekiel Kassim and Ibrahim Chowdhury.
 
@@ -56,5 +56,5 @@ ExecJS::RuntimeUnavailable:
   Could not find a JavaScript runtime. See https://github.com/rails/execjs for a list of available runtimes.
 ```
 
-Rails requires a Javascript runtime to work. The easiest way is to install Node by running `brew install node` - and then run `bundle exec rspec` again.
+Rails requires a JavaScript runtime to work. The easiest way is to install Node by running `brew install node` - and then run `bundle exec rspec` again.
 test
