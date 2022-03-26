@@ -6,7 +6,7 @@
 
 Welcome to Acebook!
 
-The app is essentially a Facebook clone, made using Ruby on Rails and SQLite over a period of 2 weeks during the Makers Academy course. The app was deployed using Heroku.
+The app is essentially a Facebook clone, made using Ruby on Rails and SQLite over a period of 2 weeks during the Makers Academy course. The app was tested using RSpec and deployed using Heroku.
 
 This site allows users to sign up, login, log out, create posts with text and photos. Each post can be "liked" or "unliked" (as can the comments).
 
@@ -16,11 +16,24 @@ https://evening-shelf-16965.herokuapp.com/signup
 
 Otherwise, run the code locally (instructions below, see "Quickstart").
 
-The site allows you to sign up, like so:
+The site allows you to sign up (with or without a profile picture), like so:
 
 ![Screenshot 2022-03-26 at 07 50 28](https://user-images.githubusercontent.com/90918377/160230243-b3c727eb-1d38-48c9-82e8-a299ad8c73c1.png)
 
-Before 
+Before signing you into the feed:
+
+![Screenshot 2022-03-26 at 07 59 04](https://user-images.githubusercontent.com/90918377/160230517-66fbd50f-0379-43a7-bae6-ff3081ce7e88.png)
+
+Friends can interact with each other, commenting and liking on posts. (Yes, the UI needs some work done to it.)
+
+![Screenshot 2022-03-26 at 08 02 10](https://user-images.githubusercontent.com/90918377/160230610-6ff666c1-8cf5-48f7-af78-684a3c64780c.png)
+
+Posts can be edited and deleted. There is an account summary with total likes and total posts.
+
+With more time we would have implemented a friends list, allowing friends to connect (and disconnect).
+
+The project was made by TEAM BETAVERSE, which comprised of Christopher Webb, Mayo Theodore, Chris Clement, Tomas Garcia and Ibrahim Chowdhury.
+
 ## Quickstart
 
 First, clone this repository. Then:
